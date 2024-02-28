@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { constrainedMemory } = require("process");
 
 //1 - what floor does Santa end up on
 // ( -- should go UP one floor
